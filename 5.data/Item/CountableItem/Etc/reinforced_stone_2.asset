@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69145403da1f1d74fa576ddb928a1e04, type: 3}
+  m_Name: reinforced_stone_2
+  m_EditorClassIdentifier: 
+  _id: 2
+  _name: "\uC0C1\uAE09\uAC15\uD654\uC11D"
+  _tooltip: "\uC0AC\uC6A9\uC2DC 4500\uACBD\uD5D8\uCE58"
+  _iconSprite: {fileID: 21300000, guid: 25887e1e767bc774e9a24997a9343056, type: 3}
+  _dropItemPrefab: {fileID: 0}
+  _dropRate: 15
+  _maxAmount: 99
+  _value: 0
